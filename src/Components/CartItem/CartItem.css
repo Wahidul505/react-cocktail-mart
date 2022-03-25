@@ -1,0 +1,12 @@
+.cart-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.cart-item button{
+    cursor: pointer;
+}
+.cart-item p{
+    line-height: 0px;
+}
